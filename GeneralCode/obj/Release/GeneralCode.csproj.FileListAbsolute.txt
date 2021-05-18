@@ -1,0 +1,6 @@
+F:\test\ZH5H\Jiaohao\TVShower\GeneralCode\bin\Release\abc.xml
+F:\test\ZH5H\Jiaohao\TVShower\GeneralCode\bin\Release\GeneralCode.dll
+F:\test\ZH5H\Jiaohao\TVShower\GeneralCode\bin\Release\GeneralCode.pdb
+F:\test\ZH5H\Jiaohao\TVShower\GeneralCode\obj\Release\GeneralCode.csprojResolveAssemblyReference.cache
+F:\test\ZH5H\Jiaohao\TVShower\GeneralCode\obj\Release\GeneralCode.dll
+F:\test\ZH5H\Jiaohao\TVShower\GeneralCode\obj\Release\GeneralCode.pdb

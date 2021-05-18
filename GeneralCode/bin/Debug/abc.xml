@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root>
+  <system_params type="系统参数">
+    <item name="ris_db" value="192.168.3.202" tip="RIS服务器IP" />
+    <item name="form_location" value="left" tip="程序显示位置,可选项:left/right/full" />
+    <item name="room_id" value="151" tip="检查室编号:ModaliyInfo.ModalityID" />
+    <item name="room_name" value="4号室(CT)" tip="检查室名称" />
+    <item name="site_id" value="screen01" tip="进程ID" />
+  </system_params>
+  <queue_order_change_reason type="插队原因">
+    <item name="发热" />
+    <item name="急诊" />
+    <item name="军人" />
+  </queue_order_change_reason>
+</root>
